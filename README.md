@@ -1,53 +1,54 @@
-# Personal Portfolio Website
+Landing Page
 
-A responsive and modern portfolio website built using HTML, CSS, and JavaScript. This project showcases personal information, skills, projects, and contact details in a professional manner.
+A modern and responsive landing page developed using HTML, CSS, and JavaScript. This project is designed to provide an attractive user interface with smooth navigation, a hero section, feature cards, an about section, and a contact section.
 
-## Features
+Features
 
 - Responsive Navigation Bar
-- Hero Section with Profile Image
-- About Me Section
-- Skills Section
-- Projects Showcase
-- Resume Download Button
-- Contact Information
-- Responsive Design for Mobile and Desktop
+- Hero Section with Background Image
+- Interactive Call-to-Action Button
+- Feature Cards Section
+- About Us Section
+- Contact Section
+- Footer Section
+- Mobile-Friendly Design
 
-## Technologies Used
+Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
 
-## How to Run
+How to Run
 
 1. Download or clone the repository.
-2. Open `index.html` in any web browser.
-3. Explore the portfolio website.
+2. Open the project folder.
+3. Double-click "index.html" or open it in any modern web browser.
+4. Explore the landing page features.
 
-## Learning Outcomes
+Learning Outcomes
 
-- HTML Page Structure
-- CSS Styling and Layout
-- Responsive Web Design
-- Navigation Menus
-- Image Integration
-- JavaScript Event Handling
+- Creating web page layouts using HTML
+- Styling pages with CSS
+- Responsive design techniques
+- Navigation bar implementation
+- Section-based webpage design
+- Basic JavaScript interactivity
 
-## Future Enhancements
+Future Enhancements
 
-- Dark Mode
-- Project Filtering
 - Contact Form Integration
-- Animations and Transitions
-- Backend Connectivity
+- Dark Mode
+- Smooth Animations
+- Backend Support
+- More Interactive Components
 
-## Author
+Author
 
-**Lakshya Thakur**
+Lakshya Thakur
 
 B.Tech AIML Student
 
-## License
+License
 
 This project is created for educational and learning purposes.
